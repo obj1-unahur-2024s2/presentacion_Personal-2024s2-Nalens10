@@ -1,6 +1,6 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-![MatíasNahuelSantos](/assets/perfilSantos.png)
+![MatíasNahuelSantos](./assets/perfilSantos.png)
 
 # Matías Nahuel Santos
 
