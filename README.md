@@ -14,3 +14,5 @@ Siempre me gusto la computación aunque nunca había indagado muy profundo, los 
 - Me agrada dibujar en 2D y 3D, aunque requiera mucho tiempo en hacer cosas muy detalladas.
 - Me gustan mucho los videojuegos, dormir y creo que tengo una leve adicción al café (es chiste).
 - Me encanta el anime, los mangas, las novelas ligeras, novelas normales, también leo mucho manhwa y novelas coreanas.
+
+**Gacias por leer.**
